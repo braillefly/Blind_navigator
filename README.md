@@ -16,5 +16,5 @@ python tiresia.pt --video <video path> --api <api key>
 Run with a camera
 
 ```
-python tiresia.pt --video <int correpsondi to the camera> --api <api key>
+python tiresia.pt --video <int correpsonding to the camera> --api <api key>
 ```
