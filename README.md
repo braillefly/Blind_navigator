@@ -3,6 +3,18 @@
 
 ## Setu up
 
+Clone the repo.
+
+```
+git clone https://github.com/braillefly/Blind_navigator.git
+cd Blind_navigator
+```
+create a virtual environment
+```
+python -m venv venv
+```
+Activate the environment and install the required packages.
+
 ```
 pip install openai PyQt5 opencv-python
 ```
