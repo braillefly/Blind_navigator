@@ -198,7 +198,7 @@ if __name__ == '__main__':
                                  formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     
     parser.add_argument('--video',  default=0, help='path to the video or int for the camera')
-    parser.add_argument('--api', type=str,  default="a8b84a24fefa4670acdc5a995fee6d9e", help='api key ')
+    parser.add_argument('--api', type=str,  default="", help='api key ')
     args = parser.parse_args()
     print(args)
 
