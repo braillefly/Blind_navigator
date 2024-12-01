@@ -11,10 +11,10 @@ pip install openai PyQt5 opencv-python
 Run with a video 
 
 ```
-python tiresia.pt --video <video path> --api <api key>
+python LLAMA_3_2_navigation.py --video <video path> --api <api key>
 ```
 Run with a camera
 
 ```
-python tiresia.pt --video <int correpsonding to the camera> --api <api key>
+python LLAMA_3_2_navigation.pt --video <int correpsonding to the camera> --api <api key>
 ```
