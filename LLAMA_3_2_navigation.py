@@ -194,7 +194,7 @@ class TiresIAAPP(QWidget):
 
 
 if __name__ == '__main__':
-    parser = argparse.ArgumentParser(description='Structure from Motion Learner training on KITTI and CityScapes Dataset',
+    parser = argparse.ArgumentParser(description='TiresIA',
                                  formatter_class=argparse.ArgumentDefaultsHelpFormatter)
     
     parser.add_argument('--video',  default=0, help='path to the video or int for the camera')
