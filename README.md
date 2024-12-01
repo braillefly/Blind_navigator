@@ -16,5 +16,5 @@ python LLAMA_3_2_navigation.py --video <video path> --api <api key>
 Run with a camera
 
 ```
-python LLAMA_3_2_navigation.pt --video <int correpsonding to the camera> --api <api key>
+python LLAMA_3_2_navigation.py --video <int correpsonding to the camera> --api <api key>
 ```
